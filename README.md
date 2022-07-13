@@ -63,9 +63,11 @@ width="40" height="40" /> </a> <a href="React – A JavaScript library for build
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 alt="react" width="40" height="40" /> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
 src="img/canva.png" alt="canva" width="40"
-height="40" /> </a> </p> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img
+height="40" /> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img
 src="img/jira.png" alt="jira" width="40"
-height="40" /> </a> </p>
+height="40" /> </a> <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img
+src="img/PHP.png" alt="PHP" width="40"
+height="40" /> </a>  </p>
 
 <br>
 
