@@ -45,29 +45,26 @@ alt="feer.rojas" height="30" width="40" /></a>
 <br>
 
 <h3 align="left">Langues et outils :</h3>
-<p align="left"> </a> <a href="Bootstrap" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-alt="bootstrap" width="40" height="40" /> </a> <a href="CSS Tutorial" target="_blank"
-rel="noreferrer"> <img
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+alt="bootstrap" width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-width="40" height="40" /> </a> <a href="W3C HTML" target="_blank" rel="noreferrer"> <img
+width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-alt="html5" width="40" height="40" /> </a> <a href="JavaScript | MDN" target="_blank"
-rel="noreferrer"> <img
+alt="html5" width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-alt="javascript" width="40" height="40" />
-</a> <a href="MySQL" target="_blank" rel="noreferrer"> <img
+alt="javascript" width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql" width="40" height="40" /> </a> <a href="Official Adobe Photoshop | Photo and design software" target="_blank"
-rel="noreferrer"> <img
+alt="mysql" width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-width="40" height="40" /> </a> <a href="React – A JavaScript library for building user interfaces" target="_blank" rel="noreferrer"> <img
+width="40" height="40" /> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-alt="react" width="40" height="40" /> </a> <a href="Canva" target="_blank" rel="noreferrer"> <img
+alt="react" width="40" height="40" /> <img
 src="img/canva.png" alt="canva" width="40"
-height="40" /> </a> </a> <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img
+height="40" /> <img
 src="img/jira.png" alt="jira" width="40"
-height="40" /> </a> </p>
+height="40" /> <img
+src="img/PHP.png" alt="PHP" width="40"
+height="40" /> </p>
 
 <br>
 
